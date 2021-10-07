@@ -1,0 +1,32 @@
+.feedback_title {
+  font-weight: 600;
+  font-size: 24px;
+  padding-left: 200px;
+}
+
+.feedback_notification {
+  padding-left: 100px;
+  font-size: 24px;
+}
+
+.feedback_buttons {
+  list-style: none;
+  display: grid;
+  grid-template-columns: 100px 100px 100px;
+  width: 400px;
+  justify-content: space-between;
+  padding-left: 100px;
+}
+
+.feedback_ratio_list {
+  display: block;
+  padding-left: 100px;
+}
+
+feedback_ratio_item {
+  display: inline-block;
+}
+
+/* .hide {
+  display: none;
+} */
